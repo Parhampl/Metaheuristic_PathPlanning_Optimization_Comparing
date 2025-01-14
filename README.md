@@ -33,8 +33,13 @@ This figure demonstrates the use of one algorithm to compute the shortest collis
 
 ![Path Planning Result](Images/EFO_nodes_condition.png)
 
-![Path Planning Result Animation](videos/Resultanimation_of_pathplanning.mp4)
+### Path Planning Result Animation
+This animation demonstrates the path planning process in action.
 
+<video controls>
+  <source src="videos/Resultanimation_of_pathplanning.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
@@ -95,9 +100,13 @@ To run the project:
 If you use this repository, please cite it as follows:
 ```
 @project{Thesis_PathPlanning_2025,
-  title={Benchmarking and Path Planning Optimization using Metaheuristic Algorithms},
-  author={Your Name},
-  year={2025},
-  organization={Your University}
+  title={A Comparative Study of the Performance of 
+Intelligent Algorithms: Cuckoo Search, Electric 
+Fish, Firefly, Bacterial Foraging, Imperialist 
+Competitive Algorithm in Path Planning
+},
+  author={Parham Porkhial},
+  year={2024},
+  organization={Iran university of science and technology}
 }
 ```
