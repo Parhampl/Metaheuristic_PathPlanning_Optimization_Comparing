@@ -98,7 +98,7 @@ To run the project:
 ## Citation
 If you use this repository, please cite it as follows:
 ```
-@project{Thesis_PathPlanning_2025,
+@project{parham_porkhial_final_thesis_PathPlanning,
   title={A Comparative Study of the Performance of 
 Intelligent Algorithms: Cuckoo Search, Electric 
 Fish, Firefly, Bacterial Foraging, Imperialist 
