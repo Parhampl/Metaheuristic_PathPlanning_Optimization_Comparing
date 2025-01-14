@@ -1,0 +1,312 @@
+Running iteration: 1
+{Unrecognized function or variable 'BFO_benchmark'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('five_iteration_for_BFO_BenchMark', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\BFO\five_iteration_for_BFO_BenchMark.m', 5)" style="font-weight:bold">five_iteration_for_BFO_BenchMark</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\BFO\five_iteration_for_BFO_BenchMark.m',5,0)">line 5</a>)
+    BFO_benchmark;  % This calls the BFO_benchmark.m script
+} 
+five_iteration_for_BFO_BenchMark
+Running iteration: 1
+Elapsed time is 5.630892 seconds.
+ 
+Variables:      top_right
+best fitness =  -959.6309
+best solution =  512      404.3247
+No.Iterations =  53
+ 
+Elapsed time is 1.631105 seconds.
+ 
+Variables:      top_left
+best fitness =  -959.6404
+best solution =  512      404.2458
+No.Iterations =  18
+ 
+Elapsed time is 14.134139 seconds.
+ 
+Variables:      Secondary_Axis
+best fitness =  -959.6319
+best solution =  512      404.3196
+No.Iterations =  132
+ 
+Elapsed time is 42.978141 seconds.
+ 
+Variables:      right
+best fitness =  -959.6312
+best solution =  512      404.1406
+No.Iterations =  445
+ 
+Elapsed time is 5.235466 seconds.
+ 
+Variables:      Main_Axis
+best fitness =  -959.6353
+best solution =  512      404.1632
+No.Iterations =  48
+ 
+Elapsed time is 13.016007 seconds.
+ 
+Variables:      left
+best fitness =  -959.6318
+best solution =  512      404.1433
+No.Iterations =  135
+ 
+Elapsed time is 2.525285 seconds.
+ 
+Variables:      down_right
+best fitness =  -959.636
+best solution =  512      404.2959
+No.Iterations =  27
+ 
+Elapsed time is 20.818185 seconds.
+ 
+Variables:      down_left
+best fitness =  -959.6406
+best solution =  512      404.2221
+No.Iterations =  207
+ 
+ 
+ 
+ 
+ 
+Running iteration: 2
+Elapsed time is 3.298708 seconds.
+ 
+Variables:      top_right
+best fitness =  -959.6406
+best solution =  512      404.2223
+No.Iterations =  18
+ 
+Elapsed time is 1.479414 seconds.
+ 
+Variables:      top_left
+best fitness =  -959.638
+best solution =  512      404.1836
+No.Iterations =  9
+ 
+Elapsed time is 8.909844 seconds.
+ 
+Variables:      Secondary_Axis
+best fitness =  -959.6369
+best solution =  512      404.2891
+No.Iterations =  80
+ 
+Elapsed time is 21.042090 seconds.
+ 
+Variables:      right
+best fitness =  -959.6376
+best solution =  512      404.1801
+No.Iterations =  195
+ 
+Elapsed time is 5.149118 seconds.
+ 
+Variables:      Main_Axis
+best fitness =  -959.6391
+best solution =  512       404.195
+No.Iterations =  44
+ 
+Elapsed time is 1.740858 seconds.
+ 
+Variables:      left
+best fitness =  -959.6317
+best solution =  512      404.3204
+No.Iterations =  13
+ 
+Elapsed time is 7.535823 seconds.
+ 
+Variables:      down_right
+best fitness =  -959.6406
+best solution =  512      404.2359
+No.Iterations =  64
+ 
+Elapsed time is 82.620332 seconds.
+ 
+Variables:      down_left
+best fitness =  -959.6336
+best solution =  512      404.3104
+No.Iterations =  682
+ 
+ 
+ 
+ 
+ 
+Running iteration: 3
+Elapsed time is 7.928225 seconds.
+ 
+Variables:      top_right
+best fitness =  -959.6359
+best solution =  512      404.1673
+No.Iterations =  64
+ 
+Elapsed time is 1.256067 seconds.
+ 
+Variables:      top_left
+best fitness =  -959.6316
+best solution =  512      404.3211
+No.Iterations =  12
+ 
+Elapsed time is 6.717412 seconds.
+ 
+Variables:      Secondary_Axis
+best fitness =  -959.632
+best solution =  512      404.1444
+No.Iterations =  58
+ 
+Elapsed time is 45.311099 seconds.
+ 
+Variables:      right
+best fitness =  -959.6387
+best solution =  512      404.1899
+No.Iterations =  375
+ 
+Elapsed time is 0.744802 seconds.
+ 
+Variables:      Main_Axis
+best fitness =  -959.6387
+best solution =  512      404.1902
+No.Iterations =  6
+ 
+Elapsed time is 2.806242 seconds.
+ 
+Variables:      left
+best fitness =  -959.6326
+best solution =  512      404.1474
+No.Iterations =  23
+ 
+Elapsed time is 2.868919 seconds.
+ 
+Variables:      down_right
+best fitness =  -959.6392
+best solution =  512      404.2671
+No.Iterations =  24
+ 
+Elapsed time is 0.878436 seconds.
+ 
+Variables:      down_left
+best fitness =  -959.6376
+best solution =  512      404.1801
+No.Iterations =  7
+ 
+ 
+ 
+ 
+ 
+Running iteration: 4
+Elapsed time is 2.321796 seconds.
+ 
+Variables:      top_right
+best fitness =  -959.6404
+best solution =  512      404.2463
+No.Iterations =  15
+ 
+Elapsed time is 25.951352 seconds.
+ 
+Variables:      top_left
+best fitness =  -959.6395
+best solution =  512      404.2643
+No.Iterations =  223
+ 
+Elapsed time is 13.937055 seconds.
+ 
+Variables:      Secondary_Axis
+best fitness =  -959.6397
+best solution =  512       404.261
+No.Iterations =  104
+ 
+Elapsed time is 7.860743 seconds.
+ 
+Variables:      right
+best fitness =  -959.6401
+best solution =  512      404.2547
+No.Iterations =  68
+ 
+Elapsed time is 26.633654 seconds.
+ 
+Variables:      Main_Axis
+best fitness =  -959.6339
+best solution =  512      404.3089
+No.Iterations =  228
+ 
+Elapsed time is 18.085965 seconds.
+ 
+Variables:      left
+best fitness =  -959.6398
+best solution =  512      404.2038
+No.Iterations =  152
+ 
+Elapsed time is 17.128213 seconds.
+ 
+Variables:      down_right
+best fitness =  -959.6339
+best solution =  512      404.3088
+No.Iterations =  145
+ 
+Elapsed time is 39.271828 seconds.
+ 
+Variables:      down_left
+best fitness =  -959.6375
+best solution =  512      404.2842
+No.Iterations =  317
+ 
+ 
+ 
+ 
+ 
+Running iteration: 5
+Elapsed time is 42.958077 seconds.
+ 
+Variables:      top_right
+best fitness =  -959.6325
+best solution =  512      404.1473
+No.Iterations =  353
+ 
+Elapsed time is 2.139012 seconds.
+ 
+Variables:      top_left
+best fitness =  -959.6348
+best solution =  512      404.1602
+No.Iterations =  19
+ 
+Elapsed time is 28.514535 seconds.
+ 
+Variables:      Secondary_Axis
+best fitness =  -959.6311
+best solution =  512      404.3234
+No.Iterations =  219
+ 
+Elapsed time is 15.953713 seconds.
+ 
+Variables:      right
+best fitness =  -959.6378
+best solution =  512      404.1816
+No.Iterations =  136
+ 
+Elapsed time is 106.591764 seconds.
+ 
+Variables:      Main_Axis
+best fitness =  -959.6372
+best solution =  512      404.2871
+No.Iterations =  892
+ 
+Elapsed time is 4.818703 seconds.
+ 
+Variables:      left
+best fitness =  -959.6375
+best solution =  512      404.1791
+No.Iterations =  36
+ 
+Elapsed time is 1.459889 seconds.
+ 
+Variables:      down_right
+best fitness =  -959.6352
+best solution =  512      404.1625
+No.Iterations =  12
+ 
+Elapsed time is 12.271133 seconds.
+ 
+Variables:      down_left
+best fitness =  -959.6369
+best solution =  512      404.2892
+No.Iterations =  104
+ 
+ 
+ 
+ 
+ 

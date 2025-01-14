@@ -1,0 +1,129 @@
+<strong>top_right</strong>
+best fitness =  -959.6392
+ 
+best solution =  512      404.1961
+ 
+Elapsed_time = 0.53939
+<strong>top_left</strong>
+best fitness =  -959.6353
+ 
+best solution =  512      404.3007
+ 
+Elapsed_time = 0.61782
+<strong>Secondary_Axis</strong>
+best fitness =  -959.6397
+ 
+best solution =  512      404.2033
+ 
+Elapsed_time = 1.0441
+<strong>right</strong>
+best fitness =  -959.6386
+ 
+best solution =  512      404.2739
+ 
+Elapsed_time = 0.70381
+<strong>Main_Axis</strong>
+best fitness =  -959.6381
+ 
+best solution =  512      404.2791
+ 
+Elapsed_time = 1.0537
+<strong>left</strong>
+best fitness =  -959.6332
+ 
+best solution =  512      404.1507
+ 
+Elapsed_time = 1.1768
+<strong>down_right</strong>
+best fitness =  -959.6391
+ 
+best solution =  512      404.1946
+ 
+Elapsed_time = 1.8551
+<strong>down_left</strong>
+best fitness =  -959.6319
+ 
+best solution =  512      404.3196
+ 
+Elapsed_time = 1.0724
+<strong>top_right</strong>
+best fitness =  -959.6347
+ 
+best solution =  512      404.1595
+ 
+Elapsed_time = 2.5167
+<strong>top_left</strong>
+best fitness =  -959.6335
+ 
+best solution =  512       404.311
+ 
+Elapsed_time = 0.18169
+{Operation terminated by the user.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EFO_BenchMark', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\electric fish\EFO_BenchMark.m', 191)" style="font-weight:bold">EFO_BenchMark</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\electric fish\EFO_BenchMark.m',191,0)">line 191</a>)
+figure(1)
+} 
+{Operation terminated by the user.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EFO_BenchMark', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\electric fish\EFO_BenchMark.m', 232)" style="font-weight:bold">EFO_BenchMark</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\electric fish\EFO_BenchMark.m',232,0)">line 232</a>)
+figure(2)
+} 
+<strong>Secondary_Axis</strong>
+best fitness =  -959.6396
+ 
+best solution =  512      404.2012
+ 
+Elapsed_time = 3.2859
+{Operation terminated by the user.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EFO_BenchMark', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\electric fish\EFO_BenchMark.m', 232)" style="font-weight:bold">EFO_BenchMark</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\electric fish\EFO_BenchMark.m',232,0)">line 232</a>)
+figure(2)
+} 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('passiveSearch')" style="font-weight:bold">passiveSearch</a>
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EFO_BenchMark', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\electric fish\EFO_BenchMark.m', 100)" style="font-weight:bold">EFO_BenchMark</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\electric fish\EFO_BenchMark.m',100,0)">line 100</a>)
+                newIndividual.solution = passiveSearch(newIndividual, activePopulation, activeIndSize); %   Performs search through passive electrolocation
+} 
+EFO_BenchMark
+{<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\electric fish\EFO_BenchMark.m',165,24)">File: EFO_BenchMark.m Line: 165 Column: 24</a>
+Invalid expression. Check for missing multiplication operator, missing or unbalanced delimiters, or other syntax error. To construct matrices, use
+brackets instead of parentheses.
+} 
+EFO_BenchMark
+<strong>top_right</strong>
+best fitness =  -959.6406
+ 
+best solution =  512      404.2242
+ 
+Elapsed_time = 4.2242
+ 
+No.Iterations= 915
+ 
+<strong>top_left</strong>
+best fitness =  -959.6407
+ 
+best solution =  512      404.2335
+ 
+Elapsed_time = 0.75759
+ 
+No.Iterations= 138
+ 
+<strong>Secondary_Axis</strong>
+best fitness =  -959.6335
+ 
+best solution =  512      404.3111
+ 
+Elapsed_time = 0.53474
+ 
+No.Iterations= 104
+ 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('EFO_BenchMark')" style="font-weight:bold">EFO_BenchMark</a>
+} 
+cuckoo_optimization
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cuckoo_optimization', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\cuckoo_optimization.m', 3)" style="font-weight:bold">cuckoo_optimization</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\cuckoo_optimization.m',3,0)">line 3</a>)
+    fitness = 10^10 * ones(n, 1); %preallocating and making sure the initial state will be changed
+} 
+TestAutocalculate

@@ -1,0 +1,137 @@
+top_right
+Best Solution=512        404.32
+Best Fitness=-959.6318
+Elapsed Time=0.29332
+top_left
+Best Solution=512      404.1962
+Best Fitness=-959.6392
+Elapsed Time=0.19647
+Secondary_Axis
+Best Solution=512      404.1782
+Best Fitness=-959.6374
+Elapsed Time=0.38296
+right
+Best Solution=512      404.1739
+Best Fitness=-959.6369
+Elapsed Time=0.11615
+Main_Axis
+Best Solution=512      404.3113
+Best Fitness=-959.6335
+Elapsed Time=0.25483
+left
+Best Solution=512      404.1828
+Best Fitness=-959.6379
+Elapsed Time=2.9439
+down_right
+Best Solution=512      404.1458
+Best Fitness=-959.6323
+Elapsed Time=0.3309
+down_left
+Best Solution=512      404.3218
+Best Fitness=-959.6315
+Elapsed Time=0.52856
+top_right
+Best Solution=512      404.2689
+Best Fitness=-959.6391
+Elapsed Time=0.46193
+No.Iterations=392
+top_left
+Best Solution=512      404.2408
+Best Fitness=-959.6406
+Elapsed Time=0.67887
+No.Iterations=914
+Secondary_Axis
+Best Solution=512      404.2464
+Best Fitness=-959.6404
+Elapsed Time=0.018345
+No.Iterations=19
+right
+Best Solution=512      404.1497
+Best Fitness=-959.633
+Elapsed Time=0.049644
+No.Iterations=72
+Main_Axis
+Best Solution=512      404.2522
+Best Fitness=-959.6402
+Elapsed Time=0.36962
+No.Iterations=338
+left
+Best Solution=512      404.2657
+Best Fitness=-959.6394
+Elapsed Time=0.63709
+No.Iterations=1061
+down_right
+Best Solution=512      404.1737
+Best Fitness=-959.6368
+Elapsed Time=0.32173
+No.Iterations=457
+down_left
+Best Solution=512      404.1392
+Best Fitness=-959.6309
+Elapsed Time=1.1937
+No.Iterations=1658
+{Operation terminated by the user.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cuckoo_optimization', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\cuckoo_optimization.m', 102)" style="font-weight:bold">cuckoo_optimization</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\cuckoo_optimization.m',102,0)">line 102</a>)
+    figure(2)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('TestAutocalculate', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\TestAutocalculate.m', 39)" style="font-weight:bold">TestAutocalculate</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\TestAutocalculate.m',39,0)">line 39</a>)
+    [e, best, fmin, elapsed_time, x11, y11, mins1] = cuckoo_optimization(nest, n, pa, Lb, Ub, Tol, mins1, e);
+} 
+top_right
+Best Solution=512      404.1575
+Best Fitness=-959.6344
+Elapsed Time=0.27083
+No.Iterations=294
+ 
+ 
+top_left
+Best Solution=512      404.1756
+Best Fitness=-959.6371
+Elapsed Time=0.33262
+No.Iterations=452
+ 
+ 
+{Operation terminated by the user.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cuckoo_optimization', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\cuckoo_optimization.m', 71)" style="font-weight:bold">cuckoo_optimization</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\cuckoo_optimization.m',71,0)">line 71</a>)
+    figure(1)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('TestAutocalculate', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\TestAutocalculate.m', 39)" style="font-weight:bold">TestAutocalculate</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\TestAutocalculate.m',39,0)">line 39</a>)
+    [e, best, fmin, elapsed_time, x11, y11, mins1] = cuckoo_optimization(nest, n, pa, Lb, Ub, Tol, mins1, e);
+} 
+{Operation terminated by the user.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cuckoo_optimization', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\cuckoo_optimization.m', 104)" style="font-weight:bold">cuckoo_optimization</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\cuckoo_optimization.m',104,0)">line 104</a>)
+    figure(2)
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('TestAutocalculate', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\TestAutocalculate.m', 39)" style="font-weight:bold">TestAutocalculate</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\TestAutocalculate.m',39,0)">line 39</a>)
+    [e, best, fmin, elapsed_time, x11, y11, mins1] = cuckoo_optimization(nest, n, pa, Lb, Ub, Tol, mins1, e);
+} 
+Secondary_Axis
+Best Solution=512      404.1837
+Best Fitness=-959.638
+Elapsed Time=0.15221
+No.Iterations=203
+ 
+ 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('newplot')" style="font-weight:bold">newplot</a>
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scatter3>matrixScatter', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\graphics\scatter3.m', 233)" style="font-weight:bold">scatter3>matrixScatter</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\graphics\scatter3.m',233,0)">line 233</a>)
+    cax = newplot(cax);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('scatter3', 'C:\Program Files\MATLAB\R2022b\toolbox\matlab\graphics\scatter3.m', 54)" style="font-weight:bold">scatter3</a> (<a href="matlab: opentoline('C:\Program Files\MATLAB\R2022b\toolbox\matlab\graphics\scatter3.m',54,0)">line 54</a>)
+        [s, ancestorAxes] = matrixScatter(varargin{:});
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cuckoo_optimization', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\cuckoo_optimization.m', 99)" style="font-weight:bold">cuckoo_optimization</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\cuckoo_optimization.m',99,0)">line 99</a>)
+    scatter3(x22, y22, z22, 'filled')
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('TestAutocalculate', 'C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\TestAutocalculate.m', 39)" style="font-weight:bold">TestAutocalculate</a> (<a href="matlab: opentoline('C:\Users\parham\Desktop\Final_Project_Revised_Version\Clear_BenchMarking_Optimization\Cuckoo_Search\TestAutocalculate.m',39,0)">line 39</a>)
+    [e, best, fmin, elapsed_time, x11, y11, mins1] = cuckoo_optimization(nest, n, pa, Lb, Ub, Tol, mins1, e);
+} 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('closereq')" style="font-weight:bold">closereq</a>
+} 
+Interrupt while evaluating DestroyedObject CloseRequestFcn.
+
+BFO_BenchMark

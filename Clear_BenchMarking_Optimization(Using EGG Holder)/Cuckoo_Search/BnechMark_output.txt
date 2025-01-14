@@ -1,0 +1,305 @@
+Running iteration: 1
+top_right
+Best Solution=512      404.2472
+Best Fitness=-959.6404
+Elapsed Time=0.15618
+No.Iterations=193
+ 
+ 
+top_left
+Best Solution=512      404.2477
+Best Fitness=-959.6404
+Elapsed Time=0.6843
+No.Iterations=1311
+ 
+ 
+Secondary_Axis
+Best Solution=512      404.1424
+Best Fitness=-959.6316
+Elapsed Time=0.18076
+No.Iterations=382
+ 
+ 
+right
+Best Solution=512      404.3246
+Best Fitness=-959.6309
+Elapsed Time=0.24944
+No.Iterations=540
+ 
+ 
+Main_Axis
+Best Solution=512      404.2895
+Best Fitness=-959.6369
+Elapsed Time=0.15449
+No.Iterations=327
+ 
+ 
+left
+Best Solution=512      404.1731
+Best Fitness=-959.6367
+Elapsed Time=1.0236
+No.Iterations=2002
+ 
+ 
+down_right
+Best Solution=512      404.2123
+Best Fitness=-959.6402
+Elapsed Time=0.15783
+No.Iterations=304
+ 
+ 
+down_left
+Best Solution=512      404.1784
+Best Fitness=-959.6374
+Elapsed Time=0.89045
+No.Iterations=1802
+ 
+ 
+ 
+ 
+ 
+ 
+Running iteration: 2
+top_right
+Best Solution=512      404.1841
+Best Fitness=-959.6381
+Elapsed Time=0.18111
+No.Iterations=313
+ 
+ 
+top_left
+Best Solution=512      404.3075
+Best Fitness=-959.6341
+Elapsed Time=0.11725
+No.Iterations=262
+ 
+ 
+Secondary_Axis
+Best Solution=512      404.3172
+Best Fitness=-959.6324
+Elapsed Time=0.14409
+No.Iterations=300
+ 
+ 
+right
+Best Solution=512      404.1779
+Best Fitness=-959.6374
+Elapsed Time=0.24271
+No.Iterations=500
+ 
+ 
+Main_Axis
+Best Solution=512      404.3047
+Best Fitness=-959.6346
+Elapsed Time=0.2547
+No.Iterations=560
+ 
+ 
+left
+Best Solution=512      404.1614
+Best Fitness=-959.635
+Elapsed Time=1.2454
+No.Iterations=2754
+ 
+ 
+down_right
+Best Solution=512       404.181
+Best Fitness=-959.6377
+Elapsed Time=0.42008
+No.Iterations=921
+ 
+ 
+down_left
+Best Solution=512      404.1841
+Best Fitness=-959.6381
+Elapsed Time=0.36121
+No.Iterations=667
+ 
+ 
+ 
+ 
+ 
+ 
+Running iteration: 3
+top_right
+Best Solution=512      404.2697
+Best Fitness=-959.639
+Elapsed Time=0.17609
+No.Iterations=213
+ 
+ 
+top_left
+Best Solution=512      404.2776
+Best Fitness=-959.6383
+Elapsed Time=0.44941
+No.Iterations=969
+ 
+ 
+Secondary_Axis
+Best Solution=512      404.2739
+Best Fitness=-959.6386
+Elapsed Time=0.4152
+No.Iterations=260
+ 
+ 
+right
+Best Solution=512      404.1613
+Best Fitness=-959.635
+Elapsed Time=0.62881
+No.Iterations=713
+ 
+ 
+Main_Axis
+Best Solution=512      404.1983
+Best Fitness=-959.6394
+Elapsed Time=0.18603
+No.Iterations=240
+ 
+ 
+left
+Best Solution=512      404.1629
+Best Fitness=-959.6353
+Elapsed Time=0.34853
+No.Iterations=543
+ 
+ 
+down_right
+Best Solution=512      404.3071
+Best Fitness=-959.6342
+Elapsed Time=0.27992
+No.Iterations=328
+ 
+ 
+down_left
+Best Solution=512      404.3244
+Best Fitness=-959.6309
+Elapsed Time=0.50976
+No.Iterations=789
+ 
+ 
+ 
+ 
+ 
+ 
+Running iteration: 4
+top_right
+Best Solution=512      404.3248
+Best Fitness=-959.6308
+Elapsed Time=0.33269
+No.Iterations=469
+ 
+ 
+top_left
+Best Solution=512      404.1411
+Best Fitness=-959.6313
+Elapsed Time=0.39732
+No.Iterations=820
+ 
+ 
+Secondary_Axis
+Best Solution=512       404.141
+Best Fitness=-959.6313
+Elapsed Time=0.29474
+No.Iterations=466
+ 
+ 
+right
+Best Solution=512      404.3156
+Best Fitness=-959.6327
+Elapsed Time=0.30919
+No.Iterations=497
+ 
+ 
+Main_Axis
+Best Solution=512      404.2037
+Best Fitness=-959.6398
+Elapsed Time=0.15532
+No.Iterations=220
+ 
+ 
+left
+Best Solution=512      404.1446
+Best Fitness=-959.632
+Elapsed Time=0.56122
+No.Iterations=910
+ 
+ 
+down_right
+Best Solution=512      404.3197
+Best Fitness=-959.6319
+Elapsed Time=0.4573
+No.Iterations=688
+ 
+ 
+down_left
+Best Solution=512      404.1396
+Best Fitness=-959.631
+Elapsed Time=0.97817
+No.Iterations=1623
+ 
+ 
+ 
+ 
+ 
+ 
+Running iteration: 5
+top_right
+Best Solution=512      404.1753
+Best Fitness=-959.637
+Elapsed Time=0.33036
+No.Iterations=434
+ 
+ 
+top_left
+Best Solution=512      404.2765
+Best Fitness=-959.6384
+Elapsed Time=0.55257
+No.Iterations=931
+ 
+ 
+Secondary_Axis
+Best Solution=512      404.2347
+Best Fitness=-959.6407
+Elapsed Time=0.042559
+No.Iterations=53
+ 
+ 
+right
+Best Solution=512      404.2778
+Best Fitness=-959.6383
+Elapsed Time=0.16821
+No.Iterations=232
+ 
+ 
+Main_Axis
+Best Solution=512      404.2929
+Best Fitness=-959.6364
+Elapsed Time=0.14415
+No.Iterations=198
+ 
+ 
+left
+Best Solution=512      404.1427
+Best Fitness=-959.6317
+Elapsed Time=0.57336
+No.Iterations=893
+ 
+ 
+down_right
+Best Solution=512      404.3198
+Best Fitness=-959.6318
+Elapsed Time=0.64508
+No.Iterations=908
+ 
+ 
+down_left
+Best Solution=512      404.1392
+Best Fitness=-959.6309
+Elapsed Time=0.54676
+No.Iterations=780
+ 
+ 
+ 
+ 
+ 
+ 

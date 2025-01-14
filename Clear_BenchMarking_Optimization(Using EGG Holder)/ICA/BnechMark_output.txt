@@ -1,0 +1,305 @@
+Running iteration: 1
+ 
+<strong>top_right</strong>
+best solution x 512best solution y404.2985
+BestSol  -959.6356
+Elapsed time is 0.12701
+No.Iterations  17
+ 
+ 
+<strong>top_left</strong>
+best solution x 512best solution y404.3184
+BestSol  -959.6321
+Elapsed time is 0.20186
+No.Iterations  56
+ 
+ 
+<strong>Secondary_Axis</strong>
+best solution x 512best solution y404.2817
+BestSol  -959.6378
+Elapsed time is 0.1042
+No.Iterations  35
+ 
+ 
+<strong>right</strong>
+best solution x 512best solution y404.2883
+BestSol  -959.637
+Elapsed time is 0.05661
+No.Iterations  20
+ 
+ 
+<strong>Main_Axis</strong>
+best solution x 512best solution y404.2238
+BestSol  -959.6406
+Elapsed time is 0.22744
+No.Iterations  60
+ 
+ 
+<strong>left</strong>
+best solution x 512best solution y404.3007
+BestSol  -959.6353
+Elapsed time is 0.072737
+No.Iterations  18
+ 
+ 
+<strong>down_right</strong>
+best solution x 512best solution y404.2389
+BestSol  -959.6406
+Elapsed time is 0.10132
+No.Iterations  34
+ 
+ 
+<strong>down_left</strong>
+best solution x 512best solution y404.1879
+BestSol  -959.6385
+Elapsed time is 0.24005
+No.Iterations  58
+ 
+ 
+ 
+ 
+ 
+Running iteration: 2
+ 
+<strong>top_right</strong>
+best solution x 512best solution y404.3017
+BestSol  -959.6351
+Elapsed time is 0.094373
+No.Iterations  28
+ 
+ 
+<strong>top_left</strong>
+best solution x 512best solution y404.1854
+BestSol  -959.6382
+Elapsed time is 0.3374
+No.Iterations  107
+ 
+ 
+<strong>Secondary_Axis</strong>
+best solution x 512best solution y404.2446
+BestSol  -959.6405
+Elapsed time is 0.048883
+No.Iterations  12
+ 
+ 
+<strong>right</strong>
+best solution x 512best solution y404.3042
+BestSol  -959.6347
+Elapsed time is 0.046857
+No.Iterations  17
+ 
+ 
+<strong>Main_Axis</strong>
+best solution x 512best solution y404.2659
+BestSol  -959.6393
+Elapsed time is 0.13105
+No.Iterations  48
+ 
+ 
+<strong>left</strong>
+best solution x 512best solution y404.1779
+BestSol  -959.6374
+Elapsed time is 0.099682
+No.Iterations  38
+ 
+ 
+<strong>down_right</strong>
+best solution x 512best solution y404.2392
+BestSol  -959.6406
+Elapsed time is 0.072888
+No.Iterations  28
+ 
+ 
+<strong>down_left</strong>
+best solution x 512best solution y404.1398
+BestSol  -959.631
+Elapsed time is 0.077505
+No.Iterations  29
+ 
+ 
+ 
+ 
+ 
+Running iteration: 3
+ 
+<strong>top_right</strong>
+best solution x 512best solution y404.263
+BestSol  -959.6396
+Elapsed time is 0.093618
+No.Iterations  24
+ 
+ 
+<strong>top_left</strong>
+best solution x 512best solution y404.2883
+BestSol  -959.637
+Elapsed time is 0.052905
+No.Iterations  20
+ 
+ 
+<strong>Secondary_Axis</strong>
+best solution x 512best solution y404.2481
+BestSol  -959.6404
+Elapsed time is 0.026359
+No.Iterations  10
+ 
+ 
+<strong>right</strong>
+best solution x 512best solution y404.2532
+BestSol  -959.6401
+Elapsed time is 0.16062
+No.Iterations  58
+ 
+ 
+<strong>Main_Axis</strong>
+best solution x 512best solution y404.2739
+BestSol  -959.6386
+Elapsed time is 0.24322
+No.Iterations  58
+ 
+ 
+<strong>left</strong>
+best solution x 512best solution y404.2693
+BestSol  -959.6391
+Elapsed time is 0.15896
+No.Iterations  54
+ 
+ 
+<strong>down_right</strong>
+best solution x 512best solution y404.1978
+BestSol  -959.6393
+Elapsed time is 0.13084
+No.Iterations  52
+ 
+ 
+<strong>down_left</strong>
+best solution x 512best solution y404.3024
+BestSol  -959.635
+Elapsed time is 1.2175
+No.Iterations  272
+ 
+ 
+ 
+ 
+ 
+Running iteration: 4
+ 
+<strong>top_right</strong>
+best solution x 512best solution y404.3116
+BestSol  -959.6334
+Elapsed time is 0.029468
+No.Iterations  9
+ 
+ 
+<strong>top_left</strong>
+best solution x 512best solution y404.3055
+BestSol  -959.6345
+Elapsed time is 4.1658
+No.Iterations  752
+ 
+ 
+<strong>Secondary_Axis</strong>
+best solution x 512best solution y404.2177
+BestSol  -959.6404
+Elapsed time is 0.029868
+No.Iterations  12
+ 
+ 
+<strong>right</strong>
+best solution x 512best solution y404.2551
+BestSol  -959.64
+Elapsed time is 0.049582
+No.Iterations  20
+ 
+ 
+<strong>Main_Axis</strong>
+best solution x 512best solution y404.2292
+BestSol  -959.6407
+Elapsed time is 0.17327
+No.Iterations  57
+ 
+ 
+<strong>left</strong>
+best solution x 512best solution y404.1846
+BestSol  -959.6381
+Elapsed time is 0.096759
+No.Iterations  39
+ 
+ 
+<strong>down_right</strong>
+best solution x 512best solution y404.277
+BestSol  -959.6383
+Elapsed time is 0.097433
+No.Iterations  39
+ 
+ 
+<strong>down_left</strong>
+best solution x 512best solution y404.2475
+BestSol  -959.6404
+Elapsed time is 0.10782
+No.Iterations  44
+ 
+ 
+ 
+ 
+ 
+Running iteration: 5
+ 
+<strong>top_right</strong>
+best solution x 512best solution y404.1598
+BestSol  -959.6348
+Elapsed time is 0.044493
+No.Iterations  13
+ 
+ 
+<strong>top_left</strong>
+best solution x 512best solution y404.2189
+BestSol  -959.6405
+Elapsed time is 0.65113
+No.Iterations  193
+ 
+ 
+<strong>Secondary_Axis</strong>
+best solution x 512best solution y404.2659
+BestSol  -959.6393
+Elapsed time is 0.097478
+No.Iterations  34
+ 
+ 
+<strong>right</strong>
+best solution x 512best solution y404.3123
+BestSol  -959.6333
+Elapsed time is 0.043176
+No.Iterations  16
+ 
+ 
+<strong>Main_Axis</strong>
+best solution x 512best solution y404.2229
+BestSol  -959.6406
+Elapsed time is 1.202
+No.Iterations  330
+ 
+ 
+<strong>left</strong>
+best solution x 512best solution y404.1985
+BestSol  -959.6394
+Elapsed time is 1.2409
+No.Iterations  361
+ 
+ 
+<strong>down_right</strong>
+best solution x 512best solution y404.1528
+BestSol  -959.6336
+Elapsed time is 0.11289
+No.Iterations  43
+ 
+ 
+<strong>down_left</strong>
+best solution x 512best solution y404.3202
+BestSol  -959.6318
+Elapsed time is 0.12336
+No.Iterations  45
+ 
+ 
+ 
+ 
+ 

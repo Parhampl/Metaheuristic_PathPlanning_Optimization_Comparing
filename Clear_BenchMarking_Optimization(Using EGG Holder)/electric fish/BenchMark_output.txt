@@ -1,0 +1,385 @@
+Running iteration: 1
+<strong>top_right</strong>
+best fitness =  -959.64
+ 
+best solution =  512      404.2072
+ 
+Elapsed_time = 0.29958
+ 
+No.Iterations= 32
+ 
+<strong>top_left</strong>
+best fitness =  -959.6397
+ 
+best solution =  512      404.2613
+ 
+Elapsed_time = 0.66759
+ 
+No.Iterations= 131
+ 
+<strong>Secondary_Axis</strong>
+best fitness =  -959.6323
+ 
+best solution =  512      404.3174
+ 
+Elapsed_time = 0.75343
+ 
+No.Iterations= 137
+ 
+<strong>right</strong>
+best fitness =  -959.6396
+ 
+best solution =  512      404.2624
+ 
+Elapsed_time = 0.89812
+ 
+No.Iterations= 178
+ 
+<strong>Main_Axis</strong>
+best fitness =  -959.6395
+ 
+best solution =  512      404.2634
+ 
+Elapsed_time = 1.0503
+ 
+No.Iterations= 192
+ 
+<strong>left</strong>
+best fitness =  -959.6398
+ 
+best solution =  512      404.2044
+ 
+Elapsed_time = 0.75115
+ 
+No.Iterations= 134
+ 
+<strong>down_right</strong>
+best fitness =  -959.6316
+ 
+best solution =  512      404.1424
+ 
+Elapsed_time = 1.4162
+ 
+No.Iterations= 246
+ 
+<strong>down_left</strong>
+best fitness =  -959.6365
+ 
+best solution =  512       404.171
+ 
+Elapsed_time = 0.56249
+ 
+No.Iterations= 95
+ 
+ 
+ 
+ 
+ 
+Running iteration: 2
+<strong>top_right</strong>
+best fitness =  -959.6382
+ 
+best solution =  512      404.1855
+ 
+Elapsed_time = 1.7284
+ 
+No.Iterations= 338
+ 
+<strong>top_left</strong>
+best fitness =  -959.64
+ 
+best solution =  512      404.2082
+ 
+Elapsed_time = 1.3289
+ 
+No.Iterations= 267
+ 
+<strong>Secondary_Axis</strong>
+best fitness =  -959.6402
+ 
+best solution =  512      404.2127
+ 
+Elapsed_time = 0.98787
+ 
+No.Iterations= 186
+ 
+<strong>right</strong>
+best fitness =  -959.6384
+ 
+best solution =  512      404.1867
+ 
+Elapsed_time = 0.46306
+ 
+No.Iterations= 84
+ 
+<strong>Main_Axis</strong>
+best fitness =  -959.6389
+ 
+best solution =  512      404.1928
+ 
+Elapsed_time = 1.1449
+ 
+No.Iterations= 235
+ 
+<strong>left</strong>
+best fitness =  -959.6335
+ 
+best solution =  512      404.3109
+ 
+Elapsed_time = 1.3952
+ 
+No.Iterations= 254
+ 
+<strong>down_right</strong>
+best fitness =  -959.6332
+ 
+best solution =  512      404.3128
+ 
+Elapsed_time = 1.027
+ 
+No.Iterations= 219
+ 
+<strong>down_left</strong>
+best fitness =  -959.6363
+ 
+best solution =  512       404.294
+ 
+Elapsed_time = 0.50066
+ 
+No.Iterations= 102
+ 
+ 
+ 
+ 
+ 
+Running iteration: 3
+<strong>top_right</strong>
+best fitness =  -959.6312
+ 
+best solution =  512      404.1404
+ 
+Elapsed_time = 0.7622
+ 
+No.Iterations= 134
+ 
+<strong>top_left</strong>
+best fitness =  -959.6386
+ 
+best solution =  512      404.1889
+ 
+Elapsed_time = 0.41105
+ 
+No.Iterations= 87
+ 
+<strong>Secondary_Axis</strong>
+best fitness =  -959.6359
+ 
+best solution =  512      404.2962
+ 
+Elapsed_time = 2.8738
+ 
+No.Iterations= 639
+ 
+<strong>right</strong>
+best fitness =  -959.6404
+ 
+best solution =  512      404.2162
+ 
+Elapsed_time = 0.46061
+ 
+No.Iterations= 87
+ 
+<strong>Main_Axis</strong>
+best fitness =  -959.6403
+ 
+best solution =  512      404.2485
+ 
+Elapsed_time = 1.2344
+ 
+No.Iterations= 271
+ 
+<strong>left</strong>
+best fitness =  -959.6367
+ 
+best solution =  512      404.2906
+ 
+Elapsed_time = 0.42042
+ 
+No.Iterations= 86
+ 
+<strong>down_right</strong>
+best fitness =  -959.6399
+ 
+best solution =  512      404.2052
+ 
+Elapsed_time = 0.60684
+ 
+No.Iterations= 127
+ 
+<strong>down_left</strong>
+best fitness =  -959.6403
+ 
+best solution =  512      404.2507
+ 
+Elapsed_time = 0.4479
+ 
+No.Iterations= 93
+ 
+ 
+ 
+ 
+ 
+Running iteration: 4
+<strong>top_right</strong>
+best fitness =  -959.6359
+ 
+best solution =  512      404.2962
+ 
+Elapsed_time = 0.49939
+ 
+No.Iterations= 69
+ 
+<strong>top_left</strong>
+best fitness =  -959.6323
+ 
+best solution =  512      404.1462
+ 
+Elapsed_time = 1.0571
+ 
+No.Iterations= 194
+ 
+<strong>Secondary_Axis</strong>
+best fitness =  -959.64
+ 
+best solution =  512      404.2556
+ 
+Elapsed_time = 2.0294
+ 
+No.Iterations= 446
+ 
+<strong>right</strong>
+best fitness =  -959.6397
+ 
+best solution =  512      404.2602
+ 
+Elapsed_time = 0.54772
+ 
+No.Iterations= 99
+ 
+<strong>Main_Axis</strong>
+best fitness =  -959.6322
+ 
+best solution =  512      404.3178
+ 
+Elapsed_time = 1.2362
+ 
+No.Iterations= 220
+ 
+<strong>left</strong>
+best fitness =  -959.6405
+ 
+best solution =  512      404.2211
+ 
+Elapsed_time = 0.39927
+ 
+No.Iterations= 83
+ 
+<strong>down_right</strong>
+best fitness =  -959.64
+ 
+best solution =  512      404.2558
+ 
+Elapsed_time = 1.3055
+ 
+No.Iterations= 265
+ 
+<strong>down_left</strong>
+best fitness =  -959.6402
+ 
+best solution =  512       404.211
+ 
+Elapsed_time = 0.91753
+ 
+No.Iterations= 191
+ 
+ 
+ 
+ 
+ 
+Running iteration: 5
+<strong>top_right</strong>
+best fitness =  -959.6309
+ 
+best solution =  512      404.3247
+ 
+Elapsed_time = 0.83268
+ 
+No.Iterations= 153
+ 
+<strong>top_left</strong>
+best fitness =  -959.6336
+ 
+best solution =  512      404.1531
+ 
+Elapsed_time = 0.57646
+ 
+No.Iterations= 117
+ 
+<strong>Secondary_Axis</strong>
+best fitness =  -959.64
+ 
+best solution =  512      404.2076
+ 
+Elapsed_time = 0.20101
+ 
+No.Iterations= 38
+ 
+<strong>right</strong>
+best fitness =  -959.6307
+ 
+best solution =  512      404.1382
+ 
+Elapsed_time = 0.71626
+ 
+No.Iterations= 146
+ 
+<strong>Main_Axis</strong>
+best fitness =  -959.6385
+ 
+best solution =  512       404.275
+ 
+Elapsed_time = 0.52105
+ 
+No.Iterations= 107
+ 
+<strong>left</strong>
+best fitness =  -959.6331
+ 
+best solution =  512      404.3136
+ 
+Elapsed_time = 1.3335
+ 
+No.Iterations= 272
+ 
+<strong>down_right</strong>
+best fitness =  -959.6406
+ 
+best solution =  512      404.2256
+ 
+Elapsed_time = 1.3052
+ 
+No.Iterations= 268
+ 
+<strong>down_left</strong>
+best fitness =  -959.6402
+ 
+best solution =  512      404.2113
+ 
+Elapsed_time = 0.8847
+ 
+No.Iterations= 185
+ 
+ 
+ 
+ 
+ 
