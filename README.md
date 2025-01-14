@@ -9,12 +9,14 @@ This repository contains the MATLAB implementation and results for the final the
 
 ## Visualizations
 
+## Stage one of testing the algorithm implementation
+
 ### Egg Holder Function
 This 3D visualization represents the Egg Holder cost function used for benchmarking the algorithms.
 
 ![Egg Holder Function](Images/Egg_Holder_3D_Version.png)
 
-### Initial vs. Final Conditions for Random Inputs
+### Initial vs. Final Conditions for Random Inputs 
 The algorithms were tested with random inputs to observe their convergence from initial to final conditions.
 
 ![Initial vs Final Conditions](Images/initial_VS_final_condition.jpg)
@@ -24,10 +26,15 @@ This visualization shows the results for predefined inputs across the tested alg
 
 ![Predefined Inputs](Images/figure_Initial_VS_Final_1.png)
 
+## Stage two path planning optimization
+
 ### Path Planning Optimization
 This figure demonstrates the use of one algorithm to compute the shortest collision-free path.
 
 ![Path Planning Result](Images/EFO_nodes_condition.png)
+
+![Path Planning Result Animation](videos/Resultanimation_of_pathplanning.mp4)
+
 
 ---
 
