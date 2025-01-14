@@ -35,10 +35,9 @@ This figure demonstrates the use of one algorithm to compute the shortest collis
 ### Path Planning Result Animation
 This animation demonstrates the path planning process in action.
 
-<video controls>
-  <source src="videos/Resultanimation_of_pathplanning.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+### Path Planning Result Animation
+![Path Planning Result Animation](videos/Resultanimation_of_pathplanning.gif)
+
 
 ---
 
